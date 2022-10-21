@@ -1,0 +1,19 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+ System.setProperty();
+ WebDriver driver=new ChromeDriver();
+
+ driver.get();
+ driver.manage().window().maximize();
+ driver.manage().window().fullscreen();
+  driver.quit();
+  driver.navigate().to();
+  Thread.sleep(2000);
+  driver.navigate().back();
+   driver.navigate().refresh();
+
+   String url=driver.getCurrentUrl();
+   System.out.println(url);
+
+   String title=driver.getTitle();
+   System.out.println(title);

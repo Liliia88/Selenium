@@ -1,0 +1,67 @@
+1.What is Software Testing?
+-identify correctness and quality of the application
+
+2. Ways you can test an app?
+-manual
+-automation
+
+3. Whats the nees of automation testing?
+-makes life easier
+-saves time
+
+4.What are the tools that you can use for Automation?
+-selenium
+-cucumber
+-testNG
+-Katlon Studio
+-Uft
+
+5.Types of testing:
+-functional
+-non finctional
+
+6. What is selenium?
+-selenium is a tool
+-that helps us to automate webApp
+-it is mainly used for Functional Testing.
+
+7.Components of Selenium.
+-Selenium IDE
+-Selenium Webdriver
+-Selenium Grid
+-Selenium RC
+
+8. What is Selenium WebDriver?
+It is a tool that allows us to perform actions on a WebApp.
+It is an Interface.
+
+9.Advantages:
+-open source
+-it works with multiple languages
+-wotrks with multiple browsers.
+-os independent
+
+10. Disadvantages:
+-no technical support
+-can not test Desktop app
+-no built in reports
+-can not test Captchas, images, videos
+
+Task1:
+open up coogle.com
+using selenium Webdriver;
+
+Steps:
+1.
+difference beween driver.quit() and driver.close()
+close() --> it will close the current tab only
+quit() --> it will close
+
+driver.get()==== driver.navigate().to()
+
+   -- navigate()keeps the history of the browser.
+    --navigate() allows you to move forward, backward and refresh the page
+additional option we get with navigate
+driver.navigate().back();
+driver.navigate().forward();
+driver.navigate().refresh();
