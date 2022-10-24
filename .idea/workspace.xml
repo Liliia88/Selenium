@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Commands" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Firsttest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/MaximizeWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/NavigateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/Selenium Class-01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/StepsTerminal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/TerminalGitSteps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01/class01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QA Study/SeleniumTest/src/FirstTest",
+    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SeleniumTest",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
