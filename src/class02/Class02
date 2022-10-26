@@ -1,0 +1,53 @@
+All the WebApplication are developed using HTML.
+
+HTML -->
+TAGS:
+
+<html>
+  <body>
+   <button> heelo </button>
+
+  </body>
+</html>
+
+------------
+WebElement:
+Anything you see on website is called a WebElement
+
+Some common WebElements:
+1.Text Boxes
+2.Radio Buttons
+3.CheckBoxes
+4.Calanders
+5.Drop Downs
+6.Tables
+
+Right click, select inspect
+
+Attribute:
+
+<button> My button </button>
+
+text is written between the opening and closing tags.
+
+<button class="abc", id="Butn"> my button </button>
+class - attribute. What ever  we have inside the tag is called attribute
+value of class - is abc
+button - is a tag
+between tags- is a text.
+what is the value of the attribute class --> answer: "abc"
+what is the value of the attribute id --> answer: "Butn"
+---------------------------------------------------------
+Locators:
+-id
+-name
+-tagname
+-xpath
+-linktext
+-partialLinkText
+-CSS Selector
+-ClassName
+
+the purpose of having multiple locators is because some tags might not have an id (u can use another locator)
+two webElements have a common locator (e.g. <input id="box"/>, name="textbox"/>
+                                            <input id="box", class="btn")
