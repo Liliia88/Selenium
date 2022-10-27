@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class02/Class02" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/LocatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/HW1ParaBankSecondWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/HW1Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/LocatorsMoazzam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/WebOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03/Xpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03/XpathDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/NavigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/NavigateMethodSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/Class02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/LocatingElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +58,9 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocatingElements">
-    <configuration name="Firsttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Firsttest" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.LocatingElements" />
+  <component name="RunManager" selected="Application.XpathDemo">
+    <configuration name="HW1ParaBankSecondWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.HW1ParaBankSecondWay" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximizeWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.MaximizeWindow" />
+    <configuration name="HW1Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.HW1Register" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.NavigateMethod" />
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.HW2" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.class01" />
+    <configuration name="WebOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.WebOrder" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03.XpathDemo" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocatingElements" />
-        <item itemvalue="Application.class01" />
-        <item itemvalue="Application.MaximizeWindow" />
-        <item itemvalue="Application.NavigateMethod" />
-        <item itemvalue="Application.Firsttest" />
+        <item itemvalue="Application.XpathDemo" />
+        <item itemvalue="Application.HW2" />
+        <item itemvalue="Application.HW1ParaBankSecondWay" />
+        <item itemvalue="Application.HW1Register" />
+        <item itemvalue="Application.WebOrder" />
       </list>
     </recent_temporary>
   </component>
