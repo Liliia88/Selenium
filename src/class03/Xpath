@@ -83,4 +83,17 @@ Syntax:
 //tagname[starts-with(@attribute,'partial starting attribute value')]
 
 example:
-//input[starts-with(@name,'pa']
+//input[starts-with(@name,'pa')]
+
+
+
+
+
+------------------------------------
+if u don't have unique:
+"//a[@class='list-group-item'][1]"
+or
+//a[@class='list-group-item' and @href='basic-first-form-demo.php']
+
+command + F
+

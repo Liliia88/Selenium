@@ -81,8 +81,8 @@ usually the links are placed in this tag
  if there is a text in the <a > tag then u can use linktext locator
 
 
---------------------------NOSUCH ELEMENT EXCEPTION---------
- NOSUCH ELEMENT EXCEPTION:
+--------------------------NO SUCH ELEMENT EXCEPTION---------
+ NO SUCH ELEMENT EXCEPTION:
  occurs when the Driver is unable to find the element on the page
  1.the locator is wrong
  2.the element is not on that page.
@@ -128,6 +128,7 @@ close the browser
 5.No such element element -->1.the locator is wrong, 2. the element is on the page
 6 send the text and perform click operation
 
-if there is a space try not to avoid it
+if there is a space try  to avoid it
+if there are numbers avoid it
 
 

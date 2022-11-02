@@ -5,13 +5,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class HW1Register {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
         // create a Webdriver instance
         WebDriver driver = new ChromeDriver();
         driver.get("https://parabank.parasoft.com/parabank/register.htm;jsessionid=B8DD31FF0AFEDBDF4454B27BBC5C05B0%22");
         //maximize the window
         driver.manage().window().maximize();
+        Thread.sleep(3000);
        // driver.findElement(By.linkText("register.htm")).click();
         //enter username
         driver.findElement(By.id("customer.firstName")).sendKeys("Kate");

@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class02/HW1ParaBankSecondWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/HW1Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/LocatorsMoazzam" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02/WebOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class03/Xpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class03/XpathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/BasicsXpathFB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03/HWXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/AdditionalMethodsGetText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/CSSSelector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/CssSelectorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/HW1cssSelectorDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/HW2CssGetText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/RadioButtonDisplayedEnablSelect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/NavigateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/NavigateMethodSleep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class02/Class02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class02/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/LocatingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/TerminalGitSteps" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/TerminalGitSteps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/HW1Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/HW1Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/HW2Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02/LocatorsMoazzam" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02/LocatorsMoazzam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class03/Xpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/class03/Xpath" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +43,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SeleniumTest",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.khusainova/Documents/QAStudy/SeleniumTest&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XpathDemo">
-    <configuration name="HW1ParaBankSecondWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.HW1ParaBankSecondWay" />
+  <component name="RunManager" selected="Application.HW1cssSelectorDisplayed">
+    <configuration name="AdditionalMethodsGetText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.AdditionalMethodsGetText" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW1cssSelectorDisplayed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.HW1cssSelectorDisplayed" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2CssGetText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.HW2CssGetText" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.HW2Facebook" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -72,51 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.HW1Register" />
+    <configuration name="RadioButtonDisplayedEnablSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.RadioButtonDisplayedEnablSelect" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.HW2" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02.WebOrder" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class03.XpathDemo" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class03.*" />
+          <option name="PATTERN" value="class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.HW2" />
-        <item itemvalue="Application.HW1ParaBankSecondWay" />
-        <item itemvalue="Application.HW1Register" />
-        <item itemvalue="Application.WebOrder" />
+        <item itemvalue="Application.HW1cssSelectorDisplayed" />
+        <item itemvalue="Application.HW2CssGetText" />
+        <item itemvalue="Application.AdditionalMethodsGetText" />
+        <item itemvalue="Application.RadioButtonDisplayedEnablSelect" />
+        <item itemvalue="Application.HW2Facebook" />
       </list>
     </recent_temporary>
   </component>
