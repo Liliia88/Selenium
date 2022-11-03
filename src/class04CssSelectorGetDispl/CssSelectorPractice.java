@@ -1,4 +1,4 @@
-package class04;
+package class04CssSelectorGetDispl;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

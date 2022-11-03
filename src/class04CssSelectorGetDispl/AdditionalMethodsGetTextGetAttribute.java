@@ -1,11 +1,11 @@
-package class04;
+package class04CssSelectorGetDispl;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class AdditionalMethodsGetText {
+public class AdditionalMethodsGetTextGetAttribute {
     public static void main(String[] args) {
 
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe
@@ -20,6 +20,8 @@ public class AdditionalMethodsGetText {
 //        get the text from the btn webelement
         String text = btn.getText();
 //        print it on console
+
+
         System.out.println("the text in the button is :"+text);
 
 

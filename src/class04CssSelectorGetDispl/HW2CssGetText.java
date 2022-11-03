@@ -1,4 +1,4 @@
-package class04;
+package class04CssSelectorGetDispl;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -36,6 +36,6 @@ you can use if else condition for verification of message
         } else{
             System.out.println("The text on message is undefined");
         }
-
+//..
     }
 }
