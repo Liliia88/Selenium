@@ -60,6 +60,7 @@ public class FbDropDown {
 
             String months = options.get(i).getText();
             System.out.println(months);
+            //..
         }
         driver.findElement(By.xpath("//button[text()='Sign Up']")).click();
     }
