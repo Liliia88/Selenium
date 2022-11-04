@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class AdditionalMethodsGetTextGetAttribute {
+public class AdditMethodsGetTextGetAttribute {
     public static void main(String[] args) {
 
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe

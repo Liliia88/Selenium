@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
-public class HW2 {
+public class HW2EbayGetOptionsVerifyTitle {
     public static void main(String[] args) throws InterruptedException {
         /*
        1.Go to ebay.com
@@ -34,6 +34,7 @@ public class HW2 {
 
             WebElement option = options.get(i);
             String text = option.getText();
+            //or String text = option.getText().getText();
             System.out.println(text);
             if(text.equalsIgnoreCase("Computers/Tablets & Networking")){
                 select.selectByIndex(i);
@@ -41,6 +42,7 @@ public class HW2 {
         }
         Thread.sleep(2000);
         driver.findElement(By.xpath("//input[@value='Search']")).click();
+//verify the title
 
         String title=driver.getTitle();
         System.out.println(title);

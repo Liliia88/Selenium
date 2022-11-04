@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
-public class MultiSelect {
+public class MultiSelectGetOptIsMultiple {
     public static void main(String[] args) throws InterruptedException {
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
