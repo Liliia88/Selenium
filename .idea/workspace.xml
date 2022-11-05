@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass2/CheckBoxesGetAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass2/FbDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass2/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass/BasicsXpathFB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass1/BasicsXpathFB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class04CssSelectorGetDispl/AdditionalMethodsGetTextGetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class04CssSelectorGetDispl/AdditMethodsGetTextGetAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class05/CheckBoxDemo2ForLoopGetAttributeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/CheckBoxForLoopGetAttributeListElemts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class05/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/HW2EbayGetOptionsVerifyTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class05/MultiSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/MultiSelectGetOptIsMultiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
