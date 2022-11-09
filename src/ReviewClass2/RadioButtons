@@ -1,7 +1,6 @@
 **********************review Class 02********************
 
 -------------------------------Radio Buttons-----------------------
-
 How to deal radio buttons:
 
 1.find the element
@@ -15,12 +14,8 @@ if you want to deal with multiple radio buttons:
 3.check for your desired one
 4.click on it
 
-
-
-
 ------------------------Multi Select Drop Down vs Single Select---------------------
-is there any difference in how we deal with multi selct drop and a single select drop down
-
+is there any difference in how we deal with multi select drop and a single select drop down
 
 are their other options available to eb used with multi select drop down ?
 
@@ -28,10 +23,6 @@ in multi select we have the option
 to deselectALL();
    deselectByvisibleText();
    deselectByIndex();
-
-
-
-
   ------------------------What We have Covered so far -------------------
 
   1.text Box ---> sendKeys(),clear()   * driver.finElement()  *SendKeys(),clear()
@@ -62,20 +53,15 @@ checkBoxes:
     using 3 mehtods u can select thee options from the drop downs
     ByIndex(),Byvalue(),ByvisibleText().
 
-
-
 The other options available to us in Mutiple select are
 deselectALL();
 deselectByvisibletext()
 deselectByvalue();
 deselectByIndex();
 
-
 ---In order to check if the dropDown is multi select or not --> .isMultiple();
 
 --in order to have all the options available to us on the DropDown using select class   --> .getOptions
 
 Note: we can only use select class if------> The drop down is made suing select tag;
-
-
 

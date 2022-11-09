@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06Alerts/Frames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/CheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/CheckBoxForLoopGetAttributeListElemts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/CheckBoxForLoopGetAttributeListElemts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/DropDownDemoSelectGetOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/DropDownDemoSelectGetOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/DropdownCheckBox" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/DropdownCheckBox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/HW1Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/HW1Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/HW2EbayGetOptionsVerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/HW2EbayGetOptionsVerifyTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/MultiSelectGetOptIsMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/MultiSelectGetOptIsMultiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/TagnameGetAttributeForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05CheckBoxDropDown/TagnameGetAttributeForLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +60,13 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW2EbayGetOptionsVerifyTitle">
-    <configuration name="CheckBoxesGetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass2.CheckBoxesGetAttribute" />
+  <component name="RunManager" selected="Application.Frames">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06Alerts.Alerts" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass1.*" />
+          <option name="PATTERN" value="class06Alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2EbayGetOptionsVerifyTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.HW2EbayGetOptionsVerifyTitle" />
+    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06Alerts.Frames" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class05.*" />
+          <option name="PATTERN" value="class06Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2EbayGetOptionsVerifyTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05CheckBoxDropDown.HW2EbayGetOptionsVerifyTitle" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05CheckBoxDropDown.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass2.RadioButtons" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReviewClass1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Frames" />
+        <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.HW2EbayGetOptionsVerifyTitle" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.FbDropDown" />
-        <item itemvalue="Application.CheckBoxesGetAttribute" />
-        <item itemvalue="Application.RadioButtons" />
       </list>
     </recent_temporary>
   </component>
