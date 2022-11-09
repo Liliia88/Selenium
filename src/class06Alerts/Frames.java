@@ -27,7 +27,7 @@ public class Frames {
 //seitch focu to the main page
         //--------------------------------------------------
         driver.switchTo().defaultContent();
-
+//..
 //        switch to the frame containing the subframe which has checkbox- by name
         //----------------------------------------------------------
         driver.switchTo().frame("frame1");
