@@ -24,7 +24,7 @@ public class Frames {
         System.out.println(text);
 
 //        check the check box
-//seitch focu to the main page
+//switch focus to the main page
         //--------------------------------------------------
         driver.switchTo().defaultContent();
 //..

@@ -53,7 +53,7 @@ xpath:
 Syntas:
 //tagname[text()='text value']
     -english: get me the tagname which has text that is "text value"
-
+--------------------------------------------------------------
     //IF IT CONTAINS TEXT VALUES WE CAN USE BY TEXT XPATH
 example:
 //a[text()='Forgot password?']
@@ -63,6 +63,8 @@ example:
 3.-------------Xpath to identify by contains Method-----------
 Syntax:
 //tagname[contains(@attribute,'partial attribute value')]
+        or
+//tagname[contains(text(),'partial attribute value')]
      english: get the tag name which has the attribute and the attribute contains "the partial value"
 
      use case:
@@ -70,6 +72,7 @@ Syntax:
      2. some part is dynamic of the attribute value id="textBoxhighlighted125" we can simply skip the part that is
      dynamic
 TWO WAYS:
+
    1)example:
 //button[contains(@type,'subm')]
  get me the tag button which has an attribute value and the attribute value contains "subm"

@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class06Alerts/HWAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW1WindowHandleSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW2ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW3NotShowTextImplicit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class03Xpath/Xpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/class03Xpath/Xpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Alerts" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/ImplicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/ImplicitWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandlingAdvance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandlingAdvance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/Windowhandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/Windowhandle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HWAlert">
+  <component name="RunManager" selected="Application.Alerts">
     <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class06Alerts.Alerts" />
       <module name="SeleniumTest" />
@@ -63,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06Alerts.Frames" />
+    <configuration name="HW1WindowHandleSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW1WindowHandleSwitch" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class06Alerts.*" />
+          <option name="PATTERN" value="class07Windowhandle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +89,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2EbayGetOptionsVerifyTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05CheckBoxDropDown.HW2EbayGetOptionsVerifyTitle" />
+    <configuration name="HW2ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW2ImplicitWait" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3NotShowTextImplicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW3NotShowTextImplicit" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TagnameGetAttributeForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05CheckBoxDropDown.TagnameGetAttributeForLoop" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -89,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06Alerts.HWAlert" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class06Alerts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass2.Practice" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReviewClass1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HWAlert" />
-        <item itemvalue="Application.Frames" />
         <item itemvalue="Application.Alerts" />
-        <item itemvalue="Application.HW2EbayGetOptionsVerifyTitle" />
-        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.TagnameGetAttributeForLoop" />
+        <item itemvalue="Application.HW3NotShowTextImplicit" />
+        <item itemvalue="Application.HW2ImplicitWait" />
+        <item itemvalue="Application.HW1WindowHandleSwitch" />
       </list>
     </recent_temporary>
   </component>
