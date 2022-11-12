@@ -1,4 +1,4 @@
-package ReviewClass1;
+package ReviewClass1Xpath;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

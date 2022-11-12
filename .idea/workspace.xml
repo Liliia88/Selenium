@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW1WindowHandleSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW2ImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class07Windowhandle/HW3NotShowTextImplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/WindowHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class03Xpath/Xpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/class03Xpath/Xpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Alerts" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Frames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/HW3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/ImplicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/ImplicitWaits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass1/BasicsXpathFB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass1Xpath/BasicsXpathFB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/CheckBoxesGetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/CheckBoxesGetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/FbDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/FbDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/RadioButtons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandlingAdvance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandlingAdvance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/Windowhandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/Windowhandle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Alerts">
+  <component name="RunManager" selected="Application.WindowHandlingAdvance">
     <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class06Alerts.Alerts" />
       <module name="SeleniumTest" />
@@ -76,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1WindowHandleSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW1WindowHandleSwitch" />
+    <configuration name="HWAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06Alerts.HWAlert" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="PATTERN" value="class06Alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW2ImplicitWait" />
+    <configuration name="ReviewClass3.Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass3.Alerts" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07Windowhandle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW3NotShowTextImplicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.HW3NotShowTextImplicit" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="PATTERN" value="ReviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WindowHandlingAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.WindowHandlingAdvance" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowHandlingAdvance" />
+        <item itemvalue="Application.ReviewClass3.Alerts" />
+        <item itemvalue="Application.HWAlert" />
         <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.TagnameGetAttributeForLoop" />
-        <item itemvalue="Application.HW3NotShowTextImplicit" />
-        <item itemvalue="Application.HW2ImplicitWait" />
-        <item itemvalue="Application.HW1WindowHandleSwitch" />
       </list>
     </recent_temporary>
   </component>

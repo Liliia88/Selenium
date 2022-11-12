@@ -13,4 +13,9 @@
                 It is used to tell webDriver to wait for a certain or expected condition before throwing "ElementNotVisibleException".
                 Explicit wait works with ExceptedConditional class waits until the condition is met or the given time is achieved.
 
-
+Explicit wait until the webelement is displayed
+explicit wait until the webelememnt is clickable
+explicit wait until the webelememnt is clickable
+ implicit wait until webelement is found
+//
+if page doesn't have a title we can compare url and use it in for loop

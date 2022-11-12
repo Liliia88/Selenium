@@ -19,13 +19,13 @@ public class Alerts {
         Thread.sleep(2000);
         //       Handling the alert
         Alert simpleAlert1 = driver.switchTo().alert();
-        simpleAlert1.accept();
+        simpleAlert1.accept(); //click ok
 
 //        find the button for confirmation alert and click on it
         WebElement confirmationAlert = driver.findElement(By.xpath("//button[@onclick='myConfirmFunction()']"));
         confirmationAlert.click();
         Alert confirmationAlert1 = driver.switchTo().alert();
-        confirmationAlert1.dismiss();
+        confirmationAlert1.dismiss(); //click cancel
 
         //find the prompt alert and send some text then accept it
         WebElement promptAlert = driver.findElement(By.xpath("//button[@onclick='myPromptFunction()']"));
