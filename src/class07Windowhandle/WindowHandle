@@ -17,5 +17,5 @@ Explicit wait until the webelement is displayed
 explicit wait until the webelememnt is clickable
 explicit wait until the webelememnt is clickable
  implicit wait until webelement is found
-//
+
 if page doesn't have a title we can compare url and use it in for loop
