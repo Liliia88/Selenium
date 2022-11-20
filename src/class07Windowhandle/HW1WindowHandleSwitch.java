@@ -22,7 +22,8 @@ http://accounts.google.com/signup
         WebDriver driver = new ChromeDriver();
         driver.get("https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp");
         driver.manage().window().maximize();
-        String gmailPage = driver.getWindowHandle(); //Store the window handle title in a variable
+        //Store the window handle title in a variable       !!!!!!!!!!!!!!
+        String gmailPage = driver.getWindowHandle();
         //1.click on help and privacy btn
         WebElement helpBtn = driver.findElement(By.xpath("//a[text()='Help']"));
         helpBtn.click(); //click on help btn

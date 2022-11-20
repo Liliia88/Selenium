@@ -16,6 +16,7 @@ public class Alerts {
         //        find the button click me for the alert and click on it
         WebElement simpleAlert = driver.findElement(By.xpath("//button[@onclick='myAlertFunction()']"));
         simpleAlert.click();
+
         Thread.sleep(2000);
         //       Handling the alert
         Alert simpleAlert1 = driver.switchTo().alert();

@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/Waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass3/WindowHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass1/BasicsXpathFB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass1Xpath/BasicsXpathFB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/CheckBoxesGetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/CheckBoxesGetAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/FbDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/FbDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/RadioButtons" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass2DropDownCheckBox/RadioButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class06Alerts/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class06Alerts/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07Windowhandle/WindowHandle" afterDir="false" />
-    </list>
+    <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,13 +47,13 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WindowHandlingAdvance">
-    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06Alerts.Alerts" />
+  <component name="RunManager" selected="Application.Calendar">
+    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class10Calendars.Calendar" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class06Alerts.*" />
+          <option name="PATTERN" value="class10Calendars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class06Alerts.HWAlert" />
+    <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.DynamicReview" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class06Alerts.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewClass3.Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass3.Alerts" />
+    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.DynamicTables" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass3.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TagnameGetAttributeForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05CheckBoxDropDown.TagnameGetAttributeForLoop" />
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.HW" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class05CheckBoxDropDown.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandlingAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class07Windowhandle.WindowHandlingAdvance" />
+    <configuration name="HWAnotherWayGoNextPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09.HWAnotherWayGoNextPage" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class07Windowhandle.*" />
+          <option name="PATTERN" value="class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindowHandlingAdvance" />
-        <item itemvalue="Application.ReviewClass3.Alerts" />
-        <item itemvalue="Application.HWAlert" />
-        <item itemvalue="Application.Alerts" />
-        <item itemvalue="Application.TagnameGetAttributeForLoop" />
+        <item itemvalue="Application.Calendar" />
+        <item itemvalue="Application.HWAnotherWayGoNextPage" />
+        <item itemvalue="Application.DynamicReview" />
+        <item itemvalue="Application.class09.HW" />
+        <item itemvalue="Application.DynamicTables" />
       </list>
     </recent_temporary>
   </component>

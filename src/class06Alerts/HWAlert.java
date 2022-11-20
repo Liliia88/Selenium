@@ -18,11 +18,13 @@ public class HWAlert {
         driver.manage().window().maximize();
         driver.switchTo().frame("frame1");
         driver.switchTo().frame("frame3");
+
         WebElement checkBox1 = driver.findElement(By.xpath("//input[@id='a']"));
         checkBox1.click();
         boolean check = checkBox1.isSelected();
         System.out.println(check);
         driver.switchTo().defaultContent();
+
         driver.switchTo().frame("frame2");
         WebElement dropdown = driver.findElement(By.xpath("//select[@id='animals']"));
         Select select = new Select(dropdown);
