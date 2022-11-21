@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calendar">
+  <component name="RunManager" selected="Application.HWCalendar">
     <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class10Calendars.Calendar" />
       <module name="SeleniumTest" />
@@ -63,19 +63,6 @@
     </configuration>
     <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class09.DynamicReview" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class09.DynamicTables" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HWCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class10Calendars.HWCalendar" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class10Calendars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HWCalendar" />
         <item itemvalue="Application.Calendar" />
         <item itemvalue="Application.HWAnotherWayGoNextPage" />
         <item itemvalue="Application.DynamicReview" />
         <item itemvalue="Application.class09.HW" />
-        <item itemvalue="Application.DynamicTables" />
       </list>
     </recent_temporary>
   </component>
