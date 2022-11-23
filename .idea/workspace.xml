@@ -47,52 +47,13 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HWCalendar">
-    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class10Calendars.Calendar" />
+  <component name="RunManager" selected="Application.LoginPageTest">
+    <configuration name="ActionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11ActionClass.ActionClass" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class10Calendars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class09.DynamicReview" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class09.HW" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HWAnotherWayGoNextPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class09.HWAnotherWayGoNextPage" />
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class09.*" />
+          <option name="PATTERN" value="class11ActionClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +74,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeyBord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11ActionClass.KeyBord" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11ActionClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.LoginPageTest" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11ActionClass.ScreenShot" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11ActionClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoginPageTest" />
+        <item itemvalue="Application.ScreenShot" />
+        <item itemvalue="Application.KeyBord" />
+        <item itemvalue="Application.ActionClass" />
         <item itemvalue="Application.HWCalendar" />
-        <item itemvalue="Application.Calendar" />
-        <item itemvalue="Application.HWAnotherWayGoNextPage" />
-        <item itemvalue="Application.DynamicReview" />
-        <item itemvalue="Application.class09.HW" />
       </list>
     </recent_temporary>
   </component>

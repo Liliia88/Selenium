@@ -1,4 +1,4 @@
-package class08;
+package class08Wait;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;

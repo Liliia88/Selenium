@@ -1,10 +1,10 @@
-package class06Alerts;
+package class06AlertsFrames;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import java.util.List;
+
 public class Alerts {
     public static void main(String[] args) throws InterruptedException {
         //        set the path to the driver to link it with our class    on mac u dont need .exe on windows u need .exe

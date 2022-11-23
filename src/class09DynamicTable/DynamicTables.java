@@ -1,11 +1,11 @@
-package class09;
+package class09DynamicTable;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-public class DynamicReview {
+public class DynamicTables {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
         // create a WebDriver instance
@@ -22,24 +22,27 @@ public class DynamicReview {
         password.sendKeys("test");
         WebElement loginButton = driver.findElement(By.id("ctl00_MainContent_login_button"));
         loginButton.click();
+        //check the checkbox that contains "screen saver" as a product
 
-        //        click on login button
 //        check the checkBox that contains "screen saver" as a product
         List<WebElement> secondColumn = driver.findElements(By.xpath("//table[@class='SampleTable']/tbody/tr/td[3]"));
 //        traverse through the list
 
         for (int i = 0; i < secondColumn.size(); i++) {
-            String text = secondColumn.get(i).getText();
+//    i=0
+            String columnText = secondColumn.get(i).getText();   //ScreenSaver
+//            check for the desired value
+            if (columnText.equalsIgnoreCase("ScreenSaver")) {
+//   print out the index of the column/row which contains the Screen saver
+                System.out.println("the index of the row which contains the Screen Saver is " + (i + 1));
+                //get the checkbox
+                ////table[@class='SampleTable']/tbody/tr[2]/td[1]
+                ////table[@class='SampleTable']/tbody/tr[4]/td[1]
 
-            if(text.equalsIgnoreCase("MyMoney")){
-                int rowNumber = i + 1;
-                System.out.println("screen saver  is  found  on row number :"+rowNumber);
-//                get the checbkbox on this row number and click it
-                WebElement checkBox = driver.findElement(By.xpath("//table[@class='SampleTable']/tbody/tr[" + (rowNumber + 1) + "]/td[1]"));
+                WebElement checkBox = driver.findElement(By.xpath("//table[@class='SampleTable']/tbody/tr[" + (i + 2) + "]/td[1]"));
                 checkBox.click();
-
             }
-
         }
+
     }
 }

@@ -1,4 +1,4 @@
-package class06Alerts;
+package class06AlertsFrames;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
