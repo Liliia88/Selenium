@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoginPageTest">
+  <component name="RunManager" selected="Application.HW">
     <configuration name="ActionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class11ActionClass.ActionClass" />
       <module name="SeleniumTest" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class10Calendars.HWCalendar" />
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11ActionClass.HW" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class10Calendars.*" />
+          <option name="PATTERN" value="class11ActionClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.LoginPageTest" />
+      <option name="MAIN_CLASS_NAME" value="Test3.LoginPageTest" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Test3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW" />
         <item itemvalue="Application.LoginPageTest" />
         <item itemvalue="Application.ScreenShot" />
         <item itemvalue="Application.KeyBord" />
         <item itemvalue="Application.ActionClass" />
-        <item itemvalue="Application.HWCalendar" />
       </list>
     </recent_temporary>
   </component>

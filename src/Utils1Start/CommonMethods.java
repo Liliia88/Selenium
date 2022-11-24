@@ -1,4 +1,4 @@
-package Utils;
+package Utils1Start;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -23,4 +23,10 @@ public class CommonMethods {
         driver.quit();
     }
 }
+/*
+openBrowserWithUrl(String url)
+closeBrowser();
+screenshot();
+switchFrame();
+ */
 
