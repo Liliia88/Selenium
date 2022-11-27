@@ -16,7 +16,7 @@ public class jsExecutorScroll {
         driver.get("https://www.amazon.com/");
         //        scroll down
         JavascriptExecutor js= (JavascriptExecutor) driver; //initialize instance JavascriptExecutor
-        js.executeScript("window.scrollBy(0,500)"); //to exectute whatever put
+        js.executeScript("window.scrollBy(0,500)"); //to exectute whatever you put
         Thread.sleep(2000);
         //scroll up
         js.executeScript("window.scrollBy(0,-500)");

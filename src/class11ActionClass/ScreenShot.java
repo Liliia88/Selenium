@@ -23,7 +23,9 @@ public class ScreenShot {
         WebElement pass = driver.findElement(By.xpath("//input[@name='ctl00$MainContent$password']"));
         pass.sendKeys("test", Keys.ENTER);
 
-        //         takescreenshot
+        //
+        //         takescreenshot/
+
         TakesScreenshot ss = (TakesScreenshot) driver;
 //        screenshot is taken at this point
         File sourceFile = ss.getScreenshotAs(OutputType.FILE);

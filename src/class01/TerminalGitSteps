@@ -36,11 +36,11 @@
 
 
  1/create a new remote repository on a github
- 2. establish the connection by using command -> git remote add origin (plus the link)
+ step 7  2. establish the connection by using command -> git remote add origin (plus the link)
   ( - add origin URL, copy from github)
- 3. to check that the connection has been established -> git remote -v
- 4. once connection is there you must run the command -> git branch -M main (only once when create a new repository)
- 5. git push -u origin main (only fist time)
+ step 8  3. to check that the connection has been established -> git remote -v
+ step 9  4. once connection is there you must run the command -> git branch -M main (only once when create a new repository)
+ step 10 5. git push -u origin main (only fist time)
 
 -git remote remove origin ( to delete the previous repo)
 -git remote -v : (to check)
