@@ -14,11 +14,11 @@ public class class01 {
         //get the url of the website
         String url=driver.getCurrentUrl();
         // print the url
-        System.out.println(url);
+        System.out.println("The current URL loaded in browser is: "+url);
         // get the title
         String title=driver.getTitle();
         //print the title
-        System.out.println(title);
+        System.out.println("The current title of the page is: "+title);
         //close the chrome
         driver.quit();
         driver.close();

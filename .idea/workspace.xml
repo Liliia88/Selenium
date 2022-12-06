@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="" />
+    <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/TwoidExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/class01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/class01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ReviewClass3/Alerts.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class01/Firsttest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class01/NavigateMethodSleep.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class01/class01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class02Locators/HW1Register.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class02Locators/HW2Facebook.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class06AlertsFrames/Alerts.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class11ActionClass/ActionClassExamplePerform.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class11ActionClass/DragAndDrop.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/class11ActionClass/KeyBord.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/FirstTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.uploadfile">
+  <component name="RunManager" selected="Application.Tables">
     <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class11ActionClass.HW" />
       <module name="SeleniumTest" />
@@ -61,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test3.LoginPageTest" />
+    <configuration name="Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass5.Tables" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test3.*" />
+          <option name="PATTERN" value="ReviewClass5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScreenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class11ActionClass.ScreenShot" />
+    <configuration name="TwoidExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass5.TwoidExample" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class11ActionClass.*" />
+          <option name="PATTERN" value="ReviewClass5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tables" />
+        <item itemvalue="Application.TwoidExample" />
         <item itemvalue="Application.uploadfile" />
         <item itemvalue="Application.jsExecutorHighlight" />
         <item itemvalue="Application.HW" />
-        <item itemvalue="Application.LoginPageTest" />
-        <item itemvalue="Application.ScreenShot" />
       </list>
     </recent_temporary>
   </component>
