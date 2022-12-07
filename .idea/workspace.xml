@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd309fe-10d0-4511-97ce-bcdaad259596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/Tables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/TwoidExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/class01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/class01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass5/Tables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass5/Tables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +63,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Tables">
-    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class11ActionClass.HW" />
+    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class09DynamicTable.DynamicTables" />
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class11ActionClass.*" />
+          <option name="PATTERN" value="class09DynamicTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,10 +131,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Tables" />
+        <item itemvalue="Application.DynamicTables" />
         <item itemvalue="Application.TwoidExample" />
         <item itemvalue="Application.uploadfile" />
         <item itemvalue="Application.jsExecutorHighlight" />
-        <item itemvalue="Application.HW" />
       </list>
     </recent_temporary>
   </component>

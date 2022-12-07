@@ -59,7 +59,7 @@ public class Tables {
             nextBtn.click();
             rowCount=0;
         }
-
         }
+
     }
 }
